@@ -63,6 +63,9 @@ API (MongoDB)
 ![delete_user](/images/delete.png)
 
 
+Аналогично с коллекцией "logProduct"
+
+
 
 
 
