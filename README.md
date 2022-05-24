@@ -50,17 +50,17 @@
 API (MongoDB)
 
 1. Начальная страница 
-![endpoints_page"](/images/fastapi1.jpg)
+![endpoints_page](/images/fastapi1.jpg)
 2. Посмотреть всех пользователей в БД
-![find_all"](/images/get_all.jpg)
+![find_all](/images/get_all.jpg)
 3. Посмотреть одного пользователь по ID в БД
-![find_one"](/images/get_one.jpg)
+![find_one](/images/get_one.jpg)
 4. Добавить пользователя
-![create_user"](/images/create.jpg)
+![create_user](/images/create.jpg)
 5. Обновить информацию о пользователе
-![update_user"](/images/update.jpg)
+![update_user](/images/update.jpg)
 6. Удалить пользователя
-![delete_user"](/images/delete.jpg)
+![delete_user](/images/delete.jpg)
 
 
 
